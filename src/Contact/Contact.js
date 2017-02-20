@@ -13,10 +13,10 @@ class Contact extends React.Component {
         marginBottom:'8vh'
       },
       call:{
-        color:'blue',
+        color:'red',
       },
       phone:{
-        color:'red',
+        color:'blue',
       }
     }
     return(
