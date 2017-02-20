@@ -24,7 +24,7 @@ class Contact extends React.Component {
       <h2 style={styles.title}>联系我</h2>
 
       <h4 style={styles.call}>CALL ME:</h4>
-      <h3 style={styles.phone}>15943072131</h3>
+      <h3 style={styles.phone}>13621325129</h3>
 
     </div>
     )
@@ -32,3 +32,4 @@ class Contact extends React.Component {
 }
 
 export default Contact;
+
